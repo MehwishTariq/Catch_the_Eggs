@@ -1,5 +1,3 @@
-Catch The Eggs
-
 
 Refer to catch_eggs(report).pdf for further details on the project.
 
